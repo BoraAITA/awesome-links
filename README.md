@@ -1,62 +1,62 @@
 # 🔗 Awesome Links
 
-Geliştiriciler için yararlı bağlantılar ve kaynaklar. Sürekli güncellenir.
+Useful links and resources for developers. Continuously updated.
 
-## 📚 Öğrenme
+## 📚 Learning
 
-### Web Geliştirme
-- [MDN Web Docs](https://developer.mozilla.org/) - Web teknolojileri ansiklopedisi
-- [freeCodeCamp](https://freeCodeCamp.org/) - Ücretsiz web geliştirme eğitimi
-- [The Odin Project](https://theodinproject.com/) - Tam kapsamlı web geliştirme eğitimi
-- [JavaScript.info](https://javascript.info/) - Modern JavaScript eğitimi
+### Web Development
+- [MDN Web Docs](https://developer.mozilla.org/) - Web technologies encyclopedia
+- [freeCodeCamp](https://freeCodeCamp.org/) - Free web development education
+- [The Odin Project](https://theodinproject.com/) - Full stack web development curriculum
+- [JavaScript.info](https://javascript.info/) - Modern JavaScript tutorial
 
-### Programlama
-- [LeetCode](https://leetcode.com/) - Algoritma ve mülakat soruları
-- [HackerRank](https://hackerrank.com/) - Kodlama meydan okumaları
-- [Exercism](https://exercism.org/) - Çok dilli programlama egzersizleri
+### Programming
+- [LeetCode](https://leetcode.com/) - Algorithm and interview questions
+- [HackerRank](https://hackerrank.com/) - Coding challenges
+- [Exercism](https://exercism.org/) - Multi-language programming exercises
 
-### Yapay Zeka
-- [fast.ai](https://fast.ai/) - Pratik deep learning eğitimi
-- [Hugging Face](https://huggingface.co/) - ML modelleri ve datasets
-- [Papers With Code](https://paperswithcode.com/) - ML makaleleri ve uygulamaları
+### AI & Machine Learning
+- [fast.ai](https://fast.ai/) - Practical deep learning education
+- [Hugging Face](https://huggingface.co/) - ML models and datasets
+- [Papers With Code](https://paperswithcode.com/) - ML papers with implementations
 
-## 🛠️ Araçlar
+## 🛠️ Tools
 
-### Editör & IDE
-- [VS Code](https://code.visualstudio.com/) - Ücretsiz ve güçlü editör
-- [Cursor](https://cursor.sh/) - AI destekli editör
-- [Neovim](https://neovim.io/) - Hızlı ve özelleştirilebilir editör
+### Editors & IDEs
+- [VS Code](https://code.visualstudio.com/) - Free and powerful editor
+- [Cursor](https://cursor.sh/) - AI-powered editor
+- [Neovim](https://neovim.io/) - Fast and customizable editor
 
 ### Terminal
-- [Oh My Zsh](https://ohmyz.sh/) - ZSH için framework
-- [Starship](https://starship.rs/) - Çapraz platformlu prompt
+- [Oh My Zsh](https://ohmyz.sh/) - Framework for ZSH
+- [Starship](https://starship.rs/) - Cross-platform prompt
 - [tmux](https://tmux.github.io/) - Terminal multiplexer
 
-### Tasarım
-- [Figma](https://figma.com/) - UI/UX tasarım aracı
-- [Excalidraw](https://excalidraw.com/) - El çizimi diyagramlar
-- [Unsplash](https://unsplash.com/) - Ücretsiz görseller
+### Design
+- [Figma](https://figma.com/) - UI/UX design tool
+- [Excalidraw](https://excalidraw.com/) - Hand-drawn diagrams
+- [Unsplash](https://unsplash.com/) - Free images
 
-## 📖 Bloglar & Siteler
+## 📖 Blogs & Sites
 
-- [Dev.to](https://dev.to/) - Geliştirici blog platformu
-- [Hashnode](https://hashnode.com/) - Kişisel blog platformu
-- [Medium](https://medium.com/) - Yazı platformu
-- [Lobsters](https://lobste.rs/) - Teknoloji haberleri
+- [Dev.to](https://dev.to/) - Developer blog platform
+- [Hashnode](https://hashnode.com/) - Personal blog platform
+- [Medium](https://medium.com/) - Writing platform
+- [Lobsters](https://lobste.rs/) - Technology news
 
-## 🎥 YouTube Kanalları
+## 🎥 YouTube Channels
 
-- [Fireship](https://youtube.com/@Fireship) - Kısa ve bilgilendirici videolar
-- [Traversy Media](https://youtube.com/@TraversyMedia) - Web geliştirme tutorialları
-- [The Primeagen](https://youtube.com/@ThePrimeagen) - Vim ve backend geliştirme
-- [Fireship](https://youtube.com/@Fireship) - Hızlı teknoloji videoları
+- [Fireship](https://youtube.com/@Fireship) - Short and informative videos
+- [Traversy Media](https://youtube.com/@TraversyMedia) - Web development tutorials
+- [The Primeagen](https://youtube.com/@ThePrimeagen) - Vim and backend development
+- [Fireship](https://youtube.com/@Fireship) - Quick technology videos
 
-## 🤝 Topluluk
+## 🤝 Community
 
-- [GitHub](https://github.com/) - Kod barındırma
-- [Stack Overflow](https://stackoverflow.com/) - Soru-cevap platformu
-- [Reddit](https://reddit.com/r/programming/) - Programlama subreddit'i
+- [GitHub](https://github.com/) - Code hosting
+- [Stack Overflow](https://stackoverflow.com/) - Q&A platform
+- [Reddit](https://reddit.com/r/programming/) - Programming subreddit
 
 ---
 
-> 📌 Bu liste sürekli güncellenir. Yeni kaynaklar eklemek için PR gönder!
+> 📌 This list is continuously updated. Submit PRs to add new resources!
